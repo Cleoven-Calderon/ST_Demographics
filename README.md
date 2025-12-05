@@ -6,8 +6,11 @@
 
 A **Streamlit** web app that visualizes key **economic and demographic indicators** for countries around the world using **World Bank API** data. This interactive dashboard allows users to explore trends in GDP, GDP per capita, inflation, population, life expectancy, and fertility rate over time.
 
-Visit here ➡️ https://st-national-indicators-dashboard.streamlit.app/
----
+## Visit here ➡️ https://st-national-indicators-dashboard.streamlit.app/
+
+## **Screenshots**
+<img width="1913" height="1079" alt="Screenshot 2025-11-29 225539" src="https://github.com/user-attachments/assets/d55a27c0-921a-4f36-b3ec-597cf732bdd2" />
+
 
 ## **Features**
 
@@ -82,12 +85,6 @@ You can install them via:
 pip install streamlit pandas requests altair
 ```
 
----
-
-## **Screenshots**
-<img width="1913" height="1079" alt="Screenshot 2025-11-29 225539" src="https://github.com/user-attachments/assets/d55a27c0-921a-4f36-b3ec-597cf732bdd2" />
-
----
 
 ## **License**
 
